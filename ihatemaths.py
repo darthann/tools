@@ -3,7 +3,7 @@ import hashlib
 import webbrowser
 
 url = 'https://ringzer0team.com/challenges/32'
-cookie = {'PHPSESSID': 'moftbuo19s43monbqgejl55dn0'}
+cookie = {'PHPSESSID': 'COOKIE HERE'}
 
 s = requests.Session()
 r = s.get(url, cookies=cookie)
