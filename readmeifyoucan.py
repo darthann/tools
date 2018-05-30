@@ -3,7 +3,7 @@ from BeautifulSoup import BeautifulSoup
 import requests
 
 url = 'https://ringzer0team.com/challenges/17'
-cookie = {'PHPSESSID': '6q465lq053qqjskbvg9bd037n6'}
+cookie = {'PHPSESSID': 'COOKIE'}
 
 s = requests.Session()
 r = s.get(url, cookies=cookie)
