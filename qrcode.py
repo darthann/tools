@@ -78,3 +78,5 @@ schema_cote_gauche_bas()
 print(decode(im))
 
 im.save('output.png')
+
+# could use ImageDraw for the squares
