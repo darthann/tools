@@ -1,3 +1,3 @@
 <?php 
-passthru("ls"); 
+passthru("cd / && ls"); 
 ?>
