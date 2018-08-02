@@ -1,1 +1,1 @@
-<?php passthru(ls); ?>
+<?php passthru("ls"); ?>
