@@ -1,1 +1,4 @@
-<?php passthru("ls"); ?>
+<?php 
+echo('test');
+passthru('ls'); 
+?>
