@@ -24,3 +24,10 @@ few scripts and useful commands
 <ul>
 <li>crunch 7 7 -t passwo^% >> wordlist.txt</li>
 </ul>
+
+# privesc
+
+<ul>
+<li>find / -perm -u=s -type f 2>/dev/null</li>
+<li>https://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/</li>
+</ul>
