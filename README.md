@@ -20,7 +20,7 @@ few scripts and useful commands
 <ul>
 <li>hydra -l user -P wordlist.txt 192.168.10.130 ssh</li>
 </ul>
-<ul>
 <p>generate wordlist from a password with 2 missing characters :</p>
+<ul>
 <li>crunch 7 7 -t passwo^% >> wordlist.txt</li>
 </ul>
