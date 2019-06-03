@@ -29,5 +29,6 @@ few scripts and useful commands
 
 <ul>
 <li>find / -perm -u=s -type f 2>/dev/null</li>
+<li>find / -perm +6000 2> /dev/null</li>
 <li>https://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/</li>
 </ul>
