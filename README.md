@@ -43,6 +43,6 @@ few scripts and useful commands
 # post-exploitation
 <ul>
 <li> grep -air --include=*.txt ou .json ou .sh password ou mot de passe </li>
-<li> grep -air --include=*.txt mot de passe </li>
+<li> grep -air --include=*.txt "mot de passe" </li>
 <li> grep -air --include=*pass* ""</li>
 </ul>
