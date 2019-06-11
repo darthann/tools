@@ -45,4 +45,5 @@ few scripts and useful commands
 <li> grep -air --include=*.txt ou .json ou .sh password ou mot de passe </li>
 <li> grep -air --include=*.txt "mot de passe" </li>
 <li> grep -air --include=*pass* ""</li>
+<li>https://matthew-brett.github.io/curious-git/reading_git_objects.html</li>
 </ul>
