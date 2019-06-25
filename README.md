@@ -31,6 +31,8 @@ few scripts and useful commands
 <li>find / -perm -u=s -type f 2>/dev/null</li>
 <li>find / -perm +6000 2> /dev/null</li>
 <li>https://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/</li>
+<li> Get a better shell if msf payload is weak (ex: python/reverse_shell) : http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet </li>
+<li> List rights : sudo -l </li>
 </ul>
 
 # shell
