@@ -28,6 +28,7 @@ few scripts and useful commands
 # privesc
 
 <ul>
+<li>https://github.com/sleventyeleven/linuxprivchecker/blob/master/linuxprivchecker.py</li>
 <li>find / -perm -u=s -type f 2>/dev/null</li>
 <li>find / -perm +6000 2> /dev/null</li>
 <li>https://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/</li>
