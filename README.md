@@ -34,6 +34,7 @@ few scripts and useful commands
 <li> Get a better shell if msf payload is weak (ex: python/reverse_shell) : http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet </li>
 <li> List rights : sudo -l </li>
 <li> Example with /bin/ed : sudo /bin/ed => !/bin/bash => id </li>
+<li>ps -ax</li>
 </ul>
 
 # shell
