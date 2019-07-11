@@ -58,6 +58,6 @@ few scripts and useful commands
 # xss
 <ul>
 <li> " style="background-image: url(http://blabla.com) </li>
-<li> <object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+></object> </li>
-<li> <object data=http://blabla.com></object> </li>
+<li> &lt;object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+>&lt;/object> </li>
+<li> &lt;object data=http://blabla.com>&lt;/object> </li>
 </ul>
