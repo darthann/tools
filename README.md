@@ -54,3 +54,8 @@ few scripts and useful commands
 <li> grep -air --include=*pass* ""</li>
 <li>https://matthew-brett.github.io/curious-git/reading_git_objects.html</li>
 </ul>
+
+# xss
+<ul>
+<li> " style="background-image: url(http://blabla.com) </li>
+</ul>
