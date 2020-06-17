@@ -1,0 +1,1 @@
+nmap -sC -sV -oA nmap_report ip
