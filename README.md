@@ -38,6 +38,7 @@ few scripts and useful commands
 <li> Example with /bin/ed : sudo /bin/ed => !/bin/bash => id </li>
 <li>https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs</li>
 <li>ps -ax</li>
+<li>https://gtfobins.github.io/</li>
 </ul>
 
 # shell
